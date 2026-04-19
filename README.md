@@ -47,5 +47,3 @@ A **Cybersecurity Engineering student** with a high passion for **AI-driven deve
 ### 📬 Get in Touch
 * 📍 **Location:** Baghdad, Iraq
 * 📞 **Phone:** 07776559082
-* ⚡ **GitHub Stats:**
-![Ghalib's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
