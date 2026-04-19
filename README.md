@@ -45,5 +45,5 @@ A **Cybersecurity Engineering student** with a high passion for **AI-driven deve
 ---
 
 ### 📬 Get in Touch
-* 📍 **Location:** Baghdad, Iraq
+* 📍 **Location:** Mendele, Iraq
 * 📞 **Phone:** 07776559082
